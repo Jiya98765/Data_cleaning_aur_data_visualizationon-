@@ -1,0 +1,211 @@
+Player_ID,Name,Age,Team,Position,Matches_Played,Goals,Assists,Yellow_Cards,Red_Cards
+1332,Eva,24,Team B,Midfielder,10,5,,1,0
+1086,Grace,21,Team D,Defender,30,2,5,,1
+1764,Eva,22,Team B,Defender,25,3,,3,
+1866,John,22,,Goalkeeper,15,4,3,3,
+1168,Alice,25,,Forward,30,6,2,3,1
+1189,Charlie,23,Team C,Goalkeeper,30,6,0,0,
+1573,Frank,23,Team D,Midfielder,15,6,5,1,1
+1854,John,20,Team B,Defender,10,6,4,,0
+1837,David,25,Team E,Defender,20,6,3,0,1
+1117,Frank,20,Team E,Midfielder,,0,2,2,1
+1175,,21,Team C,Midfielder,,1,0,0,1
+1647,Frank,27,Team A,Defender,15,2,0,2,
+1730,David,21,Team E,Goalkeeper,15,,0,0,0
+1298,David,27,,Midfielder,30,,,1,0
+1210,Charlie,24,,Defender,30,,4,0,1
+1252,Grace,24,Team C,Goalkeeper,30,0,4,,1
+1319,Eva,,Team E,,15,0,0,2,
+1799,Charlie,23,Team E,Forward,20,0,2,3,1
+1252,John,24,Team A,Goalkeeper,20,6,1,2,1
+1047,,21,Team A,Goalkeeper,25,1,3,1,1
+1347,Eva,,,Goalkeeper,5,2,,3,0
+1448,David,25,Team C,Midfielder,20,,2,,1
+1851,Eva,25,,Forward,20,1,5,,0
+1149,Charlie,25,,,15,,5,2,
+1818,Bob,21,Team B,Goalkeeper,,4,,2,
+1081,Alice,26,Team D,Goalkeeper,20,4,0,3,1
+1035,,,Team C,Forward,20,2,2,0,0
+1495,,,Team D,Goalkeeper,5,3,4,2,
+1830,Bob,21,Team E,Midfielder,30,0,3,3,1
+1736,,21,Team D,Defender,25,4,,2,0
+1432,Frank,20,Team E,,25,4,0,3,1
+1031,John,21,Team D,,20,4,3,2,1
+1921,Bob,26,Team C,Midfielder,,5,,1,
+1485,,26,Team A,Forward,,0,3,0,0
+1857,,23,Team C,,,3,5,3,1
+1247,Eva,21,,,10,3,2,3,0
+1808,Frank,25,Team E,,25,3,3,,
+1888,Alice,23,Team E,Defender,30,1,1,2,0
+1371,Alice,23,Team D,Forward,20,3,,1,1
+1278,David,22,Team E,Defender,30,1,2,0,
+1643,John,22,,Midfielder,10,3,3,2,0
+1172,Alice,22,,Goalkeeper,10,4,3,3,
+1131,Bob,22,Team A,Defender,25,2,3,2,0
+1575,,24,Team D,Goalkeeper,30,5,4,0,0
+1198,Alice,,,Midfielder,,2,1,2,0
+1940,Charlie,24,Team B,Forward,,2,,1,1
+1918,John,20,,Defender,,,5,0,1
+1876,David,25,Team E,Goalkeeper,,3,,1,1
+1918,Bob,25,Team C,Midfielder,10,5,4,,0
+1562,Charlie,27,Team E,Forward,15,,1,0,0
+1808,Eva,27,Team E,Midfielder,20,0,,2,
+1904,John,22,,Defender,15,1,,3,1
+1751,Eva,25,,,,2,4,1,
+1705,Bob,,Team A,Goalkeeper,15,3,2,,0
+1811,,20,Team D,,15,4,5,3,0
+1081,,24,Team C,Defender,15,6,2,2,1
+1216,Eva,25,Team A,Goalkeeper,,0,5,,
+1490,Bob,27,Team B,Midfielder,20,2,3,2,
+1049,David,,Team C,Forward,,0,1,0,1
+1431,Alice,27,Team A,Goalkeeper,15,3,5,1,0
+1452,Grace,27,,Midfielder,,1,2,3,1
+1704,Alice,27,Team B,Forward,5,6,,3,1
+1920,Eva,23,Team E,Defender,15,3,0,,1
+1896,Alice,22,Team A,Midfielder,15,,4,0,1
+1439,Grace,25,Team D,,,4,3,3,1
+1788,Bob,22,Team C,Midfielder,15,,1,3,1
+1901,Alice,21,,Midfielder,25,2,,3,1
+1002,Eva,21,Team A,Defender,30,5,1,,0
+1005,David,24,Team D,Defender,5,,4,2,0
+1141,Grace,27,Team B,Goalkeeper,25,5,0,1,1
+1317,Eva,23,Team A,Midfielder,5,4,2,1,
+1295,John,26,Team A,Goalkeeper,5,1,1,,0
+1724,Grace,23,Team B,Forward,20,3,1,1,1
+1614,Frank,27,Team B,,10,,3,1,0
+1094,Grace,24,Team A,Forward,,5,4,1,0
+1907,Grace,25,,Goalkeeper,10,1,3,2,1
+1158,John,22,Team E,Midfielder,15,4,4,,
+1876,John,24,Team B,,,1,5,2,1
+1090,Grace,23,,Forward,5,2,,,0
+1481,Charlie,23,,Midfielder,,4,5,0,1
+1421,David,22,Team D,Forward,25,5,4,,1
+1395,David,27,Team E,Goalkeeper,15,6,1,3,0
+1155,Eva,21,,Midfielder,10,3,2,,0
+1958,Alice,26,Team E,Goalkeeper,20,3,0,3,1
+1699,Alice,24,Team D,,20,1,4,0,
+1693,Grace,23,Team E,Goalkeeper,25,4,4,0,0
+1686,Charlie,24,,,30,3,1,2,
+1606,Charlie,23,Team C,,5,4,0,,1
+1385,John,24,,Defender,,5,0,1,1
+1032,Frank,25,Team D,,30,4,2,3,0
+1261,Charlie,24,Team A,Midfielder,30,3,0,1,1
+1298,Charlie,26,Team D,Goalkeeper,5,2,2,0,0
+1594,,22,Team E,Forward,25,1,,0,0
+1192,Eva,24,Team D,,10,0,4,1,0
+1993,John,22,,Midfielder,5,3,1,2,
+1989,John,21,Team E,Defender,20,4,0,0,0
+1656,John,21,Team B,Goalkeeper,5,1,,,
+1771,Charlie,,,Midfielder,5,6,4,1,1
+1867,Frank,26,Team D,,30,,0,,
+1612,David,20,Team C,,5,4,0,2,
+1913,Charlie,24,,Defender,30,5,4,3,1
+1146,Frank,,,,30,3,1,2,0
+1133,Alice,20,,Defender,30,,4,1,
+1129,David,26,Team E,Goalkeeper,25,0,,0,0
+1420,Bob,20,Team A,Midfielder,20,0,,,
+1787,Bob,26,Team A,Defender,20,4,1,0,0
+1729,Grace,,Team B,Midfielder,5,4,,2,
+1280,David,25,Team B,Midfielder,20,4,4,2,0
+1046,,26,Team E,,20,4,0,2,
+1049,Alice,22,Team D,Forward,30,3,3,0,1
+1252,Charlie,24,Team D,Forward,,6,1,1,
+1532,Grace,25,Team A,,15,2,2,1,
+1950,,25,Team A,Midfielder,15,1,4,2,0
+1585,Grace,25,Team A,,20,6,2,3,1
+1593,Alice,27,Team A,Defender,5,6,5,1,1
+1242,David,24,Team A,Midfielder,25,5,1,2,
+1123,,22,,Goalkeeper,20,3,,1,0
+1055,Eva,27,Team A,Defender,25,0,1,1,
+1658,John,20,Team B,Forward,25,1,2,,
+1774,John,24,Team E,Forward,5,6,3,0,0
+1204,Charlie,23,,Goalkeeper,15,5,,1,0
+1448,Eva,26,Team D,Defender,,4,1,0,0
+1479,Grace,24,Team B,Goalkeeper,5,2,3,3,
+1524,Bob,26,Team C,Midfielder,10,6,3,2,0
+1502,Grace,23,Team A,Defender,10,,5,3,1
+1717,Frank,25,,,5,,,1,
+1551,Frank,23,Team A,Forward,30,2,4,0,1
+1457,Grace,,Team C,,25,0,4,,
+1167,Grace,20,Team E,Defender,,4,1,0,0
+1404,Charlie,,Team D,,5,0,5,3,1
+1275,John,21,Team C,Goalkeeper,25,2,2,,1
+1911,Alice,25,,Goalkeeper,10,,0,2,1
+1190,Grace,25,Team E,Midfielder,25,6,,1,1
+1395,Charlie,25,,Forward,,,4,2,0
+1977,Grace,20,Team E,Goalkeeper,20,3,4,3,0
+1046,Charlie,21,Team D,Midfielder,30,0,0,1,1
+1863,Bob,22,Team C,Defender,5,6,1,1,1
+1952,,25,Team C,Midfielder,,2,1,2,0
+1978,Grace,25,Team E,Forward,,3,,,0
+1120,Bob,27,Team D,Forward,15,4,5,3,0
+1994,Grace,26,Team A,Forward,30,4,3,0,0
+1081,Bob,21,Team E,Goalkeeper,10,4,4,0,1
+1723,Eva,27,,Forward,,2,2,1,1
+1407,Frank,20,,Midfielder,5,1,4,2,
+1344,Eva,24,Team B,Defender,5,6,0,2,1
+1558,Grace,,Team E,,20,2,4,2,1
+1846,Bob,24,Team E,Forward,30,2,5,0,1
+1902,Charlie,24,Team C,Midfielder,,2,2,3,1
+1680,Grace,24,,Defender,10,3,1,,1
+1117,Grace,27,Team E,Goalkeeper,15,6,0,2,1
+1499,Grace,25,Team B,Goalkeeper,25,2,5,2,1
+1503,Bob,24,Team D,Defender,15,4,3,2,1
+1515,Charlie,,Team A,Forward,25,4,3,1,
+1550,Charlie,27,Team B,Goalkeeper,5,5,2,,
+1918,Eva,22,,Midfielder,,4,0,0,0
+1922,Charlie,27,Team E,Midfielder,20,1,5,0,
+1932,Charlie,20,Team A,Forward,20,0,4,1,0
+1075,John,25,Team E,Goalkeeper,20,1,5,1,
+1474,John,21,,Midfielder,10,5,4,,
+1338,,24,Team B,Defender,10,6,,1,0
+1573,,24,,,20,4,5,1,0
+1228,Eva,27,Team E,Goalkeeper,5,6,1,1,1
+1196,,26,Team E,Goalkeeper,10,5,0,2,1
+1647,Charlie,21,,Goalkeeper,25,0,5,1,1
+1430,Bob,25,Team C,Goalkeeper,10,1,4,,0
+1768,David,27,Team B,Goalkeeper,30,3,,2,0
+1626,Alice,26,Team C,Midfielder,20,,5,0,
+1849,John,,Team D,Goalkeeper,10,4,,0,0
+1710,David,21,Team D,Midfielder,30,,,1,1
+1428,Charlie,24,,Forward,30,2,4,1,0
+1789,Grace,25,Team C,Midfielder,,4,1,0,1
+1310,Grace,23,Team D,Goalkeeper,10,,3,3,1
+1925,Grace,22,,Goalkeeper,15,1,0,,0
+1001,Alice,,,Midfielder,20,,,2,0
+1961,Frank,,,,20,0,,0,1
+1355,Charlie,25,Team A,,25,4,0,,1
+1450,Charlie,20,Team E,Forward,30,1,2,3,
+1534,Bob,25,Team E,Forward,5,6,5,2,1
+1227,Alice,22,Team E,Forward,10,0,0,3,0
+1929,Frank,23,,,20,2,4,0,1
+1615,David,25,Team E,Goalkeeper,25,5,2,1,0
+1492,Eva,20,Team E,,30,1,1,0,
+1727,Frank,25,Team B,Defender,5,4,,3,1
+1128,Charlie,,Team D,Midfielder,20,6,,0,0
+1529,Eva,27,Team D,Goalkeeper,5,6,1,0,
+1286,Frank,21,Team E,,25,4,4,,0
+1194,Frank,27,Team B,Forward,30,,,3,
+1664,Frank,24,,Midfielder,,4,2,,0
+1343,Charlie,24,Team E,Midfielder,15,3,5,3,0
+1672,Frank,27,Team A,Forward,,0,0,3,0
+1971,Charlie,26,Team A,,20,3,3,3,1
+1514,Eva,,Team A,Defender,20,0,2,3,
+1761,Bob,20,Team D,Goalkeeper,25,2,2,1,1
+1699,,22,,,15,3,0,3,1
+1658,Eva,24,Team A,Defender,5,1,1,0,0
+1122,Frank,27,Team B,,10,4,5,3,1
+1264,Alice,22,,Defender,30,1,1,1,1
+1846,Frank,23,Team D,,10,,4,1,1
+1568,David,22,Team A,Forward,5,5,4,3,1
+1575,Eva,23,,Midfielder,15,2,4,2,0
+1808,Eva,27,Team E,Midfielder,20,0,,2,
+1295,John,26,Team A,Goalkeeper,5,1,1,,0
+1854,John,20,Team B,Defender,10,6,4,,0
+1261,Charlie,24,Team A,Midfielder,30,3,0,1,1
+1704,Alice,27,Team B,Forward,5,6,,3,1
+1002,Eva,21,Team A,Defender,30,5,1,,0
+1141,Grace,27,Team B,Goalkeeper,25,5,0,1,1
+1385,John,24,,Defender,,5,0,1,1
+1568,David,22,Team A,Forward,5,5,4,3,1
+1081,Alice,26,Team D,Goalkeeper,20,4,0,3,1
